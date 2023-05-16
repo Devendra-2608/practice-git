@@ -1,1 +1,1 @@
-console.log("HELLO BY nik !!!");
+const name = 'one'; 
