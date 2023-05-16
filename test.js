@@ -1,1 +1,1 @@
-console.log("HELLO BY DEVENDRA !!!");
+const name = "one";
